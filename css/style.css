@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    background: lightgreen;
+    border: 1px solid lightgreen;
+    margin-top: 0%;
+    margin-right: 10px;
+}
+input[type="name"]{
+    width: 28vw;
+    height: 5vh;
+    margin: 2%;
+    
+}
+input[type="email"]{
+    width: 28vw;
+    height: 5vh;
+    margin: 2%;
+    
+    text-align: left;
+}
+input[type="message"]{
+    width:28vw;
+    height:10vh; 
+    margin: 2%;
+    
+    text-align: left;
+}
+input[type="submit"]{
+    width:30vw;
+    margin: 2%;
+    border: 1px solid lightgreen;
+    color: white;
+    background-color: lightgreen;
+}
+form{
+    width:11vw;
+   
+}
+input[type="submit"]:hover{
+    background-color:rgb(6, 63, 6);
+    color:white;
+}
+fieldset {
+    background-color: lightgrey;
+}
